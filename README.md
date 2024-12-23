@@ -1,6 +1,5 @@
-# Hassanali
-Hello world, This my profile
-# Hi, I'm [Your Name] 👋
+# Hassanali 👋
+
 [Brief intro about who you are, what you're passionate about, and what you're working on.]
 
 ## 🚀 About Me
